@@ -1,0 +1,20 @@
+Ceratopteris 2.1 Final    Crichardii_676_v2.1.protein_primaryTranscriptOnly.fa
+Amborella   50948-CDS-prot
+Marchantia  Mpolymorpha_320_v3.1.protein.fa
+klebsordium 160614_klebsormidium_v1.1_AA
+Chara   Not sure on this one
+Vitis   vitviv2.pep.fasta
+Poplus  Ptrichocarpa_533_v4.1.protein.fa
+Mesotanium endlicheriaanum  Mesotaenium_endlicherianum_gene
+Spirogloea  Spirogloea_muscicola_gene
+Volvox  Vcarteri_317_v2.1.protein.fa
+Physcomitrella  Ppatens_318_v3.3.protein_primaryTranscriptOnly.fa
+Selaginella Smoellendorffii_91_v1.0.protein_primaryTranscriptOnly.fa
+Salvinia    Salvinia_cucullata.protein.highconfidence_v1.2 (1)
+Azolla  Not sure on this one
+Zea Zm-B73-REFERENCE-NAM-5.0_Zm00001eb.1.protein.fa
+Oryza   Osativa_323_v7.0.protein.fa
+Arabidopsis Athaliana_447_Araport11.protein.fa
+Anthoceros  AagrBONN_genome_PROT
+Gnetum  Gmm.final.pep
+Sequoia Segi.2_0.pep.fa
